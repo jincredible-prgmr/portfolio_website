@@ -30,10 +30,7 @@ export default class Sidebar extends Component {
               </ul>
             </nav>
             <div className="colorlib-footer">
-              <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i>
 
-              </small></p>
               <p><small>
                 Spotify Player coming soon !!
               </small></p>
